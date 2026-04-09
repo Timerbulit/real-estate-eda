@@ -34,8 +34,8 @@ real_estate_project/
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd real_estate_project
+git clone https://github.com/Timerbulit/real-estate-eda.git
+cd real-estate-eda
 ```
 
 2. Create and activate virtual environment:
