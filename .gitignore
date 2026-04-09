@@ -1,0 +1,30 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Data files (large CSV)
+data/*.csv
+data/*.zip
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS files
+.DS_Store
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+*.egg-info/
+dist/
+build/
